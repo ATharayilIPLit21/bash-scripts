@@ -14,3 +14,5 @@ rm -f /var/log/maillog-*
 rm -f /var/log/httpd/access_log.*
 rm -f /var/log/httpd/error_log-*
 rm -f /var/log/httpd/ssl_error_log-*
+
+sudo yum clean all
